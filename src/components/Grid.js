@@ -5,7 +5,7 @@ import React from 'react';
 import useStyles from './Grid.styles';
 
 const offCell = {
-  on: false,
+  on: true,
   color: '#000000',
 };
 
